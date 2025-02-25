@@ -1,4 +1,4 @@
-import 'package:week_3_blabla_project/model/ride_pref/ride_pref.dart';
+import '../model/ride_pref/ride_pref.dart';
 
 import '../dummy_data/dummy_data.dart';
 import '../model/ride/ride.dart';
